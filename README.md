@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinlee0310)](https://solved.ac/jinlee0310/" width="49%">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinlee0310)](https://solved.ac/jinlee0310/)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinlee0310&layout=compact" width="49%">
 
 </div>
